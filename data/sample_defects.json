@@ -1,0 +1,14 @@
+[
+  {
+    "id": "DEF-001",
+    "raw": "Login fails sometimes after password reset. I got an error. Please check."
+  },
+  {
+    "id": "DEF-002",
+    "raw": "Checkout total wrong when coupon applied. It shows more than expected."
+  },
+  {
+    "id": "DEF-003",
+    "raw": "Search is slow and sometimes returns nothing."
+  }
+]
